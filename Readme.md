@@ -46,7 +46,8 @@ cara kerjanya yaitu nilai atau angka yang diinputkan akan dikalikan dengan harga
 3. Method isAllowed berfungsi mengecek variabel nominal input yang dimasukkan oleh user berupa string atau integer
 4. Regex berfungsi mengetahui karakter yang diinputkan user berupa angka atau selain angka, jika yang diinputkan bukan berupa angka maka akan mengeluarkan output invalid.
 5. Class Diagram
-    ![Class Diagram](../../../Class Diagram.jpg) 
+
+   ![Class Diagram](https://user-images.githubusercontent.com/61857691/95987408-959a7680-0e51-11eb-91cf-39f95615a5ef.jpg)
 
 
      
